@@ -16,3 +16,7 @@ This project focuses on analyzing sales data using Power BI to understand custom
 
 ## 📌 Note
 The dashboard was created using Power BI by combining multiple datasets (Customers, Orders, Products) and building relationships between them.
+
+## 📊 Project Preview
+
+![Dashboard](Screenshot%202026-03-30%20024151.png)
